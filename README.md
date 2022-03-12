@@ -47,8 +47,15 @@
 - Plantas
     - Criação subterrânea
     - Bancos de sementes
+- Passatempo
+    - Jogos de tabuleiro
+    - Livros
+    - Expressão artística
 - Energia
     - Baterias
+- Comunicação
+    - Radioamadorismo
+    - Sinais de fumaça
 - Gerenciamento de lixo
 - Defesa
     - Armas
