@@ -67,6 +67,10 @@
 
 ## References
 
+- https://www.youtube.com/watch?v=fBgP9nq7bv4&ab_channel=HojenoMundoMilitar
 - https://www.youtube.com/watch?v=Uc4xI544IzY&ab_channel=AtlasSurvivalShelters
 - http://ki4u.com/
 - https://en.wikipedia.org/wiki/Radiation_protection
+- https://www.atomicarchive.com/science/effects/index.html
+- https://www.radiation-dosimetry.org/pt-br/o-que-e-blindagem-de-radiacao-gama-definicao/
+- https://www.bigrentz.com/blog/how-to-build-underground-bunker
